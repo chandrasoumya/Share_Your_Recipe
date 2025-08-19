@@ -1,0 +1,5 @@
+com\shareyourrecipe\dto\AuthDtos$JwtResponse.class
+com\shareyourrecipe\service\AuthService.class
+com\shareyourrecipe\dto\AuthDtos$SignupRequest.class
+com\shareyourrecipe\dto\AuthDtos$SigninRequest.class
+com\shareyourrecipe\dto\AuthDtos.class
