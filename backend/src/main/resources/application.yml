@@ -16,7 +16,7 @@ server:
 
 app:
   jwt:
-    secret: "change-this-secret-to-a-long-random-string"
+    secret: "i_am_batman"
     expirationMs: 604800000 # 7 days
 
 
